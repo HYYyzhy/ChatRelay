@@ -25,5 +25,26 @@
         "IsDip17Plugin":  false,
         "AcceptsFeedback":  true,
         "IconUrl":  null
+    },
+    {
+        "Author":  "蓝色大肥鱼",
+        "Name":  "RP助手",
+        "InternalName":  "RPAssist",
+        "AssemblyVersion":  "2.0.0.0",
+        "TestingAssemblyVersion":  null,
+        "Description":  "RP助手：把游戏里的悄悄话、小队、部队、通讯贝等频道推到手机网页与通知，并在手机上直接回复；内置单机/联机斗地主。授权一次，两个功能通用。",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/HYYyzhy/ChatRelay",
+        "Tags":  null,
+        "CategoryTags":  null,
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/HYYyzhy/ChatRelay/releases/download/v1.0.1/RPAssist.zip",
+        "DownloadLinkUpdate":  "https://github.com/HYYyzhy/ChatRelay/releases/download/v1.0.1/RPAssist.zip",
+        "DownloadLinkTesting":  null,
+        "Punchline":  "聊天中继 + 斗地主，一个插件全都有",
+        "IsTestingExclusive":  false,
+        "IsDip17Plugin":  false,
+        "AcceptsFeedback":  true,
+        "IconUrl":  null
     }
 ]
