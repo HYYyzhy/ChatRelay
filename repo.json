@@ -1,0 +1,29 @@
+[
+    {
+        "Author":  "蓝色大肥鱼",
+        "Name":  "聊天中继",
+        "InternalName":  "ChatRelay",
+        "AssemblyVersion":  "1.0.0.0",
+        "TestingAssemblyVersion":  null,
+        "Description":  "聊天中继：把游戏里勾选的频道（悄悄话 / 小队 / 跨服小队 / 团队 / 部队 / 通讯贝 / 跨服贝等）推送到手机网页，在手机上直接回复，由插件以对应指令（/tell、/p、/fc、/l1、/cwl1 等）发回游戏。支持多用户，一人一码绑一个角色。",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/HYYyzhy/ChatRelay",
+        "Tags":  [
+                     "chat",
+                     "relay",
+                     "phone"
+                 ],
+        "CategoryTags":  [
+                             "other"
+                         ],
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/HYYyzhy/ChatRelay/releases/download/v1.0.0/ChatRelay.zip",
+        "DownloadLinkUpdate":  "https://github.com/HYYyzhy/ChatRelay/releases/download/v1.0.0/ChatRelay.zip",
+        "DownloadLinkTesting":  null,
+        "Punchline":  "把游戏里的悄悄话、小队、部队、通讯贝消息推到手机，并从手机回复",
+        "IsTestingExclusive":  false,
+        "IsDip17Plugin":  false,
+        "AcceptsFeedback":  true,
+        "IconUrl":  null
+    }
+]
